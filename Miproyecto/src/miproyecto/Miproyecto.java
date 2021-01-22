@@ -16,7 +16,11 @@ public class Miproyecto {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        int numeros[]=new int[10];
         System.out.println("Probando github");
+        for(int i=0;i<numeros.length;i++){
+            numeros[i]=5;
+        }
     }
     
 }
