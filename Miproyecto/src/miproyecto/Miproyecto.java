@@ -22,7 +22,7 @@ public class Miproyecto {
             numeros[i]=5;
         }
         for(int i=0;i<numeros.length;i++){
-            System.out.println("numeros: " + numeros[i]);
+            System.out.println("numeros: " + (numeros[i])*numeros[i]);
         }
     }
     
